@@ -1287,7 +1287,7 @@
   var styles = reactNative.StyleSheet.create({
     fullscreen: {
       opacity: 0,
-      position: 'absolute',
+      position: 'fixed',
       top: 0,
       left: 0,
       bottom: 0,
